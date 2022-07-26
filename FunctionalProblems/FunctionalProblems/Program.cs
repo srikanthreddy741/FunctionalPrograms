@@ -7,10 +7,11 @@ namespace FunctionalProblems
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("wellcome To HormonicNumber");
+            Console.WriteLine("wellcome To Factors");
 
-            HormonicNumber.HarmonicNumberSeries();
+            Factors.PrimeFactor();
 
+            //HormonicNumber.HarmonicNumberSeries();
             //Power.PowerOf2();
             // LeapYear Leap = new LeapYear();
             //Leap.Year();
