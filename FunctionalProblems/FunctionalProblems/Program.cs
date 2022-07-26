@@ -3,12 +3,15 @@ using System;
 
 namespace FunctionalPrograms
 {
-    public class Program
+   public class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("wellcome To FlipCoin");
-            FlipCoin.PrintTheHeadAndTailPercentage();
+            Console.WriteLine("wellcome To LeapYear");
+
+            LeapYear Leap = new LeapYear();
+            Leap.Year();
+
         }
     }
 }
