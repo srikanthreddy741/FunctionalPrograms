@@ -7,11 +7,13 @@ namespace FunctionalPrograms
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("wellcome To LeapYear");
+            Console.WriteLine("wellcome To Powerof2");
+            
+            Power.PowerOf2();
 
-            LeapYear Leap = new LeapYear();
-            Leap.Year();
-
+            // LeapYear Leap = new LeapYear();
+            //Leap.Year();
+            
         }
     }
 }
