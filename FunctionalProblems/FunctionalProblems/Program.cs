@@ -7,10 +7,10 @@ namespace FunctionalProblems
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("wellcome To Factors");
-
-            Factors.PrimeFactor();
-
+            Console.WriteLine("wellcome To FunctionalProblems");
+            QuotientAndRemainder.CalculateQuotientAndRemainder();
+          
+            //Factors.PrimeFactor();
             //HormonicNumber.HarmonicNumberSeries();
             //Power.PowerOf2();
             // LeapYear Leap = new LeapYear();
