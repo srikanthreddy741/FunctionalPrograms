@@ -8,8 +8,9 @@ namespace FunctionalProblems
         public static void Main(string[] args)
         {
             Console.WriteLine("wellcome To FunctionalProblems");
-            EvenorOdd.CheckNumberEvenorOdd();
+            VowelOrConstant.CheckVowelOrConstant();
             
+            // EvenorOdd.CheckNumberEvenorOdd();
             //SwapTwoNumbers.SwappingNumbers();
             //QuotientAndRemainder.CalculateQuotientAndRemainder();
             //Factors.PrimeFactor();
